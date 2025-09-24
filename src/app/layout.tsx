@@ -19,15 +19,15 @@ export const metadata: Metadata = {
   keywords: ["Z.ai", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
   authors: [{ name: "Z.ai Team" }],
   openGraph: {
-    title: "Z.ai Code Scaffold",
+    title: "Talento Tech2.0",
     description: "AI-powered development with modern React stack",
-    url: "https://chat.z.ai",
-    siteName: "Z.ai",
+    url: "https://talentotech2.com.co/",
+    siteName: "Talento Tech2.0",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Z.ai Code Scaffold",
+    title: "Talento Tech2.0",
     description: "AI-powered development with modern React stack",
   },
 };
