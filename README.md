@@ -1,4 +1,4 @@
-# 🚀 Welcome to Talento Tech Scaffold
+# 🚀 Welcome 
 
 A modern, production-ready web application scaffold powered by cutting-edge technologies, designed to accelerate your development.
 
@@ -72,15 +72,6 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) to see your application running.
 
-## 🤖 Powered
-
-- **💻 Code Generation** - Generate components, pages, and features instantly
-- **🎨 UI Development** - Create beautiful interfaces with AI assistance  
-- **🔧 Bug Fixing** - Identify and resolve issues with intelligent suggestions
-- **📝 Documentation** - Auto-generate comprehensive documentation
-- **🚀 Optimization** - Performance improvements and best practices
-
-
 ## 📁 Project Structure
 
 ```
@@ -126,11 +117,4 @@ This scaffold includes a comprehensive set of modern web development tools:
 - **Type Safety**: End-to-end TypeScript with Zod validation
 - **Essential Hooks**: 100+ useful React hooks with ReactUse for common patterns
 
-## 🤝 Get Started
-
-1. **Clone this scaffold** to jumpstart your project
-3. **Start building** with intelligent code generation and assistance
-4. **Deploy with confidence** using the production-ready setup
-
----
 

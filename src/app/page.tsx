@@ -113,6 +113,16 @@ export default function Home() {
                 </CardDescription>
               </CardHeader>
               <CardContent className="space-y-6">
+                {/* Imagen principal de conceptos */}
+                <div className="flex justify-center mb-6">
+                  <img 
+                    src="/ia-brain-circuits.png" 
+                    alt="Cerebro con circuitos digitales representando la inteligencia artificial" 
+                    className="rounded-lg shadow-lg max-w-full h-auto"
+                    style={{ maxHeight: '300px' }}
+                  />
+                </div>
+                
                 <div className="grid md:grid-cols-2 gap-6">
                   <Card>
                     <CardHeader>
@@ -191,6 +201,13 @@ export default function Home() {
                       <CardTitle className="text-lg">Salud</CardTitle>
                     </CardHeader>
                     <CardContent>
+                      <div className="mb-4">
+                        <img 
+                          src="/ia-healthcare.png" 
+                          alt="IA en salud - diagnóstico médico asistido" 
+                          className="rounded-lg w-full h-32 object-cover"
+                        />
+                      </div>
                       <ul className="space-y-2 text-sm">
                         <li>• Diagnóstico médico asistido</li>
                         <li>• Descubrimiento de fármacos</li>
@@ -205,6 +222,13 @@ export default function Home() {
                       <CardTitle className="text-lg">Transporte</CardTitle>
                     </CardHeader>
                     <CardContent>
+                      <div className="mb-4">
+                        <img 
+                          src="/ia-transportation.png" 
+                          alt="IA en transporte - vehículos autónomos" 
+                          className="rounded-lg w-full h-32 object-cover"
+                        />
+                      </div>
                       <ul className="space-y-2 text-sm">
                         <li>• Vehículos autónomos</li>
                         <li>• Optimización de rutas</li>
@@ -219,6 +243,13 @@ export default function Home() {
                       <CardTitle className="text-lg">Educación</CardTitle>
                     </CardHeader>
                     <CardContent>
+                      <div className="mb-4">
+                        <img 
+                          src="/ia-education.png" 
+                          alt="IA en educación - aprendizaje personalizado" 
+                          className="rounded-lg w-full h-32 object-cover"
+                        />
+                      </div>
                       <ul className="space-y-2 text-sm">
                         <li>• Aprendizaje personalizado</li>
                         <li>• Tutores inteligentes</li>
@@ -233,6 +264,13 @@ export default function Home() {
                       <CardTitle className="text-lg">Finanzas</CardTitle>
                     </CardHeader>
                     <CardContent>
+                      <div className="mb-4">
+                        <img 
+                          src="/ia-finance.png" 
+                          alt="IA en finanzas - trading algorítmico" 
+                          className="rounded-lg w-full h-32 object-cover"
+                        />
+                      </div>
                       <ul className="space-y-2 text-sm">
                         <li>• Detección de fraudes</li>
                         <li>• Trading algorítmico</li>
@@ -247,6 +285,13 @@ export default function Home() {
                       <CardTitle className="text-lg">Retail</CardTitle>
                     </CardHeader>
                     <CardContent>
+                      <div className="mb-4">
+                        <img 
+                          src="/ia-retail.png" 
+                          alt="IA en retail - recomendación de productos" 
+                          className="rounded-lg w-full h-32 object-cover bg-gray-200"
+                        />
+                      </div>
                       <ul className="space-y-2 text-sm">
                         <li>• Recomendación de productos</li>
                         <li>• Gestión de inventario</li>
@@ -261,6 +306,13 @@ export default function Home() {
                       <CardTitle className="text-lg">Manufactura</CardTitle>
                     </CardHeader>
                     <CardContent>
+                      <div className="mb-4">
+                        <img 
+                          src="/ia-manufacturing.png" 
+                          alt="IA en manufactura - robótica inteligente" 
+                          className="rounded-lg w-full h-32 object-cover bg-gray-200"
+                        />
+                      </div>
                       <ul className="space-y-2 text-sm">
                         <li>• Control de calidad</li>
                         <li>• Mantenimiento predictivo</li>
@@ -283,6 +335,16 @@ export default function Home() {
                 </CardDescription>
               </CardHeader>
               <CardContent>
+                {/* Imagen comparativa */}
+                <div className="flex justify-center mb-8">
+                  <img 
+                    src="/ia-vs-automation.png" 
+                    alt="Comparativa entre IA y automatización tradicional" 
+                    className="rounded-lg shadow-lg max-w-full h-auto"
+                    style={{ maxHeight: '300px' }}
+                  />
+                </div>
+                
                 <div className="grid md:grid-cols-2 gap-8">
                   <Card>
                     <CardHeader>
@@ -635,6 +697,16 @@ export default function Home() {
                 </CardDescription>
               </CardHeader>
               <CardContent className="space-y-6">
+                {/* Imagen principal de resumen */}
+                <div className="flex justify-center mb-6">
+                  <img 
+                    src="/ia-overview.png" 
+                    alt="Visión general de la inteligencia artificial y sus aplicaciones" 
+                    className="rounded-lg shadow-lg max-w-full h-auto"
+                    style={{ maxHeight: '300px' }}
+                  />
+                </div>
+                
                 <Card>
                   <CardHeader>
                     <CardTitle className="text-xl">Puntos Clave</CardTitle>
