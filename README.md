@@ -2,6 +2,8 @@
 
 A modern, production-ready web application scaffold powered by cutting-edge technologies, designed to accelerate your development.
 
+contact: fyzapatac@gmail.com
+
 ## ✨ Technology Stack
 
 This scaffold provides a robust foundation built with:
